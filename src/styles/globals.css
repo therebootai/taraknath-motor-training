@@ -1,0 +1,22 @@
+@import "tailwindcss";
+/* @import "slick-carousel/slick/slick.css";
+@import "slick-carousel/slick/slick-theme.css"; */
+
+
+@theme {
+  
+  --font-display: "Outfit";
+
+  --color-defined-green : #9CDF00;
+  --color-defined-black : #222222;
+  --color-defined-brown : #666666;
+  --color-defined-white:  #F8F8F8;
+
+  --breakpoint-xxl: 1780px;
+  --breakpoint-xl: 1440px;
+  --breakpoint-xlg: 1280px;
+  --breakpoint-lg: 1024px;
+  --breakpoint-md: 760px;
+  --breakpoint-sm: 280px;
+
+} 

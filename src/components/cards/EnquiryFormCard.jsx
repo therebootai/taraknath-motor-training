@@ -16,7 +16,7 @@ const EnquiryFormCard = () => {
           return;
         }
 
-        const dest = "+918250742988";
+        const dest = "+919563500112";
         let message = `*Name:* ${form.name}
   *Phone:* ${form.mobile}
   *Package needed:* ${form.package}

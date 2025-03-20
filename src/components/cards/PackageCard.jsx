@@ -16,7 +16,7 @@ const PackageCard = ({ item }) => {
   };
 
   const handlePackage = (item) => {
-    const dest = "+918250742988";
+    const dest = "+919563500112";
     let message = `Hello! I am interested in the *${item}* package. 
     Can you guide me through the process?`;
     message = encodeURIComponent(message);
